@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\bin\Debug\net8.0\Lesson2.TCP.exe
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\bin\Debug\net8.0\Lesson2.TCP.deps.json
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\bin\Debug\net8.0\Lesson2.TCP.runtimeconfig.json
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\bin\Debug\net8.0\Lesson2.TCP.dll
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\bin\Debug\net8.0\Lesson2.TCP.pdb
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.AssemblyInfo.cs
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.dll
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\refint\Lesson2.TCP.dll
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.pdb
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\Lesson2.TCP.genruntimeconfig.cache
+C:\Users\User\source\repos\Lesson2.TCP\Lesson2.TCP\obj\Debug\net8.0\ref\Lesson2.TCP.dll
